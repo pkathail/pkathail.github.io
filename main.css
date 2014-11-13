@@ -19,5 +19,7 @@ h1 {
   text-transform:uppercase;
   color:#4A4A4A;
   font-size:50px;
+  padding-left:10px;
+  padding-right:10px;
 }
 
