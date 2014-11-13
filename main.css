@@ -1,6 +1,10 @@
-body {
+* {
   background-color=#E5E5E5;
 }
 h1 {
   font-family='Futura',sans-serif;
+  text-align=center;
+}
+.nav {
+  display=inline;
 }
