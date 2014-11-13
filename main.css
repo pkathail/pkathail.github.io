@@ -5,6 +5,6 @@ h1 {
   font-family:'Futura',sans-serif;
   text-align:center;
 }
-.nav {
+.nav ul li {
   display:inline;
 }
