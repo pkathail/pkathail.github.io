@@ -2,18 +2,20 @@
   background-color:#E5E5E5;
 }
 h1 {
-  font-family:'Futura',sans-serif;
+  font-family:'Gotham',sans-serif;
   text-align:center;
-  margin-top:auto;
-  margin-bottom:auto;
+  margin-top:400px;
   font-size:50px;
+  color:#000066;
 }
 .nav {
-  width:400px;
+  width:300px;
   margin-left:auto;
   margin-right:auto;
 }
 .nav ul li {
   display:inline;
+  text-transform:uppercase;
+  color:#4D4D94;
 }
 
