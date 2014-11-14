@@ -16,10 +16,10 @@ h1 {
   position:fixed;
   bottom:0px;
   width:100%;
+  color:#4A4A4A;
 }
 .nav ul li {
   display:inline;
-  text-transform:uppercase;
   color:#4A4A4A;
   font-size:50px;
   padding-left:10px;
